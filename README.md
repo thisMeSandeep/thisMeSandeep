@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sandeep Singh</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
+<h3 align="center">A passionate Full developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thismesandeep&label=Profile%20views&color=0e75b6&style=flat" alt="thismesandeep" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thismesandeep" alt="thismesandeep" /></a> </p>
 
-- 🔭 I’m currently working on **MERN STACK**
+- 🔭 I’m currently working on **FULL STACK**
 
-- 🌱 I’m currently learning **Express , MongoDb**
+- 🌱 I’m currently learning **TypeScript , Express**
 
 - 📝 I regularly write articles on [https://sandeepdevhub.hashnode.dev/](https://sandeepdevhub.hashnode.dev/)
 
